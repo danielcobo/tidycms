@@ -27,3 +27,18 @@ theme 	/ templates
 		/ settings
 		/ template engine 
 		/ parsers
+
+---
+
+# Version 1
+===========
+
+1. Read & understand data
+Read & parse data. Templates are not data
+
+2. Where to show data
+Match data to templates.
+
+3. (How to) display data
+Run template engine with appropriate data, template files, 
+includes and other extensions of the template engine
