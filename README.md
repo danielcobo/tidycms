@@ -31,7 +31,6 @@ theme 	/ templates
 ---
 
 # Version 1
-===========
 
 1. Read & understand data
 Read & parse data. Templates are not data
